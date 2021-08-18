@@ -9,7 +9,7 @@ app.get('/api/countries', (req, res) => {
 })
 app.get('/api', (req, res) => {
 
-    res.send({ "hello": "world" })
+    res.send("<h1 style='display:flex;justify-content:center;'>welcome to coronaVirus api</h1>")
 })
 app.get('/api/total', (req, res) => {
 
