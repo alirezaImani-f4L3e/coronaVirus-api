@@ -1,0 +1,83 @@
+{
+    "total": {
+        "name": "total",
+        "TotalCases": "209,833,263",
+        "TotalDeaths": "4,401,456",
+        "TotalRecovered": "188,060,013",
+        "ActiveCases": "17,371,794",
+        "SeriousCritical": "107,769",
+        "TotalTests": ""
+    },
+    "USA": {
+        "name": "United States of America",
+        "TotalCases": "37,919,876",
+        "TotalDeaths": "640,265",
+        "TotalRecovered": "30,291,816",
+        "ActiveCases": "6,987,795",
+        "SeriousCritical": "20,860",
+        "TotalTests": "559,735,130"
+    },
+    "Iran": {
+        "name": "Iran",
+        "TotalCases": "4,556,417",
+        "TotalDeaths": "99,691",
+        "TotalRecovered": "3,814,127",
+        "ActiveCases": "642,599",
+        "SeriousCritical": "7,490",
+        "TotalTests": "27,177,565"
+    },
+    "India": {
+        "name": "India",
+        "TotalCases": "32,320,898",
+        "TotalDeaths": "433,063",
+        "TotalRecovered": "31,516,224",
+        "ActiveCases": "371,611",
+        "SeriousCritical": "8,944",
+        "TotalTests": "496,629,524"
+    },
+    "Brazil": {
+        "name": "Brazil",
+        "TotalCases": "20,417,204",
+        "TotalDeaths": "570,718",
+        "TotalRecovered": "19,313,546",
+        "ActiveCases": "532,940",
+        "SeriousCritical": "8,318",
+        "TotalTests": "56,023,684"
+    },
+    "Russia": {
+        "name": "Russia",
+        "TotalCases": "6,663,473",
+        "TotalDeaths": "172,909",
+        "TotalRecovered": "5,939,037",
+        "ActiveCases": "551,527",
+        "SeriousCritical": "2,300",
+        "TotalTests": "173,200,000"
+    },
+    "France": {
+        "name": "France",
+        "TotalCases": "6,533,383",
+        "TotalDeaths": "112,976",
+        "TotalRecovered": "5,966,375",
+        "ActiveCases": "454,032",
+        "SeriousCritical": "1,807",
+        "TotalTests": "111,773,788"
+    },
+    "UK": {
+        "name": "United Kingdom",
+        "TotalCases": "6,355,887",
+        "TotalDeaths": "131,260",
+        "TotalRecovered": "4,923,892",
+        "ActiveCases": "1,300,735",
+        "SeriousCritical": "925",
+        "TotalTests": "259,176,591"
+    },
+    "Turkey": {
+        "name": "Turkey",
+        "TotalCases": "6,138,452",
+        "TotalDeaths": "53,675",
+        "TotalRecovered": "5,651,819",
+        "ActiveCases": "432,958",
+        "SeriousCritical": "633",
+        "TotalTests": "72,681,603"
+    }
+}
