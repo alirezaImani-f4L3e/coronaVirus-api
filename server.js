@@ -1,7 +1,10 @@
 const express = require('express')
+const cors = require('cors')
 const data = require('./dataBase.json')
 
 const app = express();
+
+app.use(cors());
 
 app.get('/api/countries', (req, res) => {
 
